@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40674" started-at="2020-01-18T08:31:30 CST" finished-at="2020-01-18T08:32:10 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40674" started-at="2020-01-18T08:31:30 CST" finished-at="2020-01-18T08:32:10 CST">
+      <class name="com.class02.AssertionsDemo">
+        <test-method status="PASS" signature="openAndNavigate()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="openAndNavigate" is-config="true" duration-ms="14871" started-at="2020-01-18T08:31:30 CST" finished-at="2020-01-18T08:31:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method status="PASS" signature="titleValidation()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="titleValidation" duration-ms="18" started-at="2020-01-18T08:31:45 CST" finished-at="2020-01-18T08:31:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="closeBrowser" is-config="true" duration-ms="628" started-at="2020-01-18T08:31:45 CST" finished-at="2020-01-18T08:31:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openAndNavigate()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="openAndNavigate" is-config="true" duration-ms="12686" started-at="2020-01-18T08:31:45 CST" finished-at="2020-01-18T08:31:58 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method status="PASS" signature="validateLogin()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="validateLogin" duration-ms="2219" started-at="2020-01-18T08:31:58 CST" finished-at="2020-01-18T08:32:00 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="closeBrowser" is-config="true" duration-ms="642" started-at="2020-01-18T08:32:00 CST" finished-at="2020-01-18T08:32:01 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="openAndNavigate()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="openAndNavigate" is-config="true" duration-ms="8879" started-at="2020-01-18T08:32:01 CST" finished-at="2020-01-18T08:32:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAndNavigate -->
+        <test-method status="PASS" signature="validateLogo()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="validateLogo" duration-ms="70" started-at="2020-01-18T08:32:10 CST" finished-at="2020-01-18T08:32:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.class02.AssertionsDemo@3b0143d3]" name="closeBrowser" is-config="true" duration-ms="628" started-at="2020-01-18T08:32:10 CST" finished-at="2020-01-18T08:32:10 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.class02.AssertionsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

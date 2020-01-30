@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Sample&apos; to &apos;SeleniumBatchV&apos;" description="Rename resource &apos;Sample&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Sample" name="SeleniumBatchV" stamp="1576945245731" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;comclass9.NestedLoops&apos; to &apos;NestedLoop&apos;&#x0D;&#x0A;- Original project: &apos;JavaClasses&apos;&#x0D;&#x0A;- Original element: &apos;comclass9.NestedLoops&apos;&#x0D;&#x0A;- Renamed element: &apos;comclass9.NestedLoop&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;NestedLoops&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;comclass9{NestedLoops.java[NestedLoops" matchStrategy="1" name="NestedLoop" qualified="false" references="true" similarDeclarations="false" stamp="1571497239252" textual="false" version="1.0"/>
+</session>

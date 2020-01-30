@@ -1,0 +1,13 @@
+package com.class01;
+
+public class IDLocator {
+
+	public static void main(String[] args) {
+		
+		
+		System.setProperty("webdriver."
+		WebDriver driver=new ChromeDriver
+
+	}
+
+}

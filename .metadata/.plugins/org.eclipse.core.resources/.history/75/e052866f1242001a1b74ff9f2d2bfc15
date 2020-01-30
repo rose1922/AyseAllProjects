@@ -1,0 +1,10 @@
+package snippet;
+
+public class Snippet {
+	com.hrms.pages
+	com.hrms.testbase
+	com.hrms.testcases
+	com.hrms.utils
+	com.practices
+}
+

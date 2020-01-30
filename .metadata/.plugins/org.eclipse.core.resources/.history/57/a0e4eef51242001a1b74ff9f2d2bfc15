@@ -1,0 +1,10 @@
+package com.hrms.pages;
+
+public class Snippet {
+	AddEmployeePageElements.java
+	DashboardPage.java
+	LeaveListPageElements.java
+	LoginPageElements.java
+	PersonalDetailsWebElements.java
+}
+
