@@ -2468,3 +2468,5 @@ org.eclipse.core.runtime.CoreException: Launch configuration LoginPageTest refer
 2020-01-30 17:16:46,378 [Worker-75: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
 2020-01-30 17:19:34,576 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-01-30 17:19:34,576 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\roseo\eclipse-workspace\HRMS\src\main\resources
+2020-01-30 17:19:34,578 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-01-30 17:19:34,580 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
